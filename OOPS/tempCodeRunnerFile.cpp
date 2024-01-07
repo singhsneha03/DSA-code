@@ -1,0 +1,2 @@
+
+    area operator +(area z)
